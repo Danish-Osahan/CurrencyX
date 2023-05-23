@@ -6,8 +6,8 @@
 <h3 align="center">CurrencyX</h3>
 
 <div style={{display:flex;flex-direction:flex-row}}>
-<img width=400px height=400px src="assets\s1.jpg" alt="Bot logo"></a>
-<img width=400px height=400px src="assets\s2.jpg" alt="Bot logo"></a>
+<img width=400px height=700px src="assets\s1.jpg" alt="Bot logo"></a>
+<img width=400px height=700px src="assets\s2.jpg" alt="Bot logo"></a>
 </div>
 
 <!-- <div align="center">
