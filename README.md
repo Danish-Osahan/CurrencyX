@@ -5,7 +5,7 @@
 
 <h3 align="center">CurrencyX</h3>
 
-<div style={{display:flex;flex-direction:flex-row}}>
+<div style={{display:flex;flex-direction:flex-row}} align="center">
 <img width=400px height=700px src="assets\s1.jpg" alt="Bot logo"></a>
 <img width=400px height=700px src="assets\s2.jpg" alt="Bot logo"></a>
 </div>
@@ -23,7 +23,7 @@
 ---
 
 <p align="center"> 
-CurrencyX
+<h3 align="center">CurrencyX</h3>
 
 The CurrencyX is a mobile application designed to provide a seamless and efficient way to convert currencies. The app allows users to easily select the currency they want to convert from and to, enter the desired amount, and obtain the converted result. With real-time exchange rates and intuitive charts, users can stay updated with the latest currency fluctuations.
 
@@ -70,12 +70,12 @@ The Currency Converter App is built using the following technologies:
 7. The app will automatically track user activity and display the most searched currency pairs for easy selection.
 
 ## Links
-1. App Link : https://expo.dev/@danishosahan/CurrencyX
-2. Screen Recording : https://drive.google.com/file/d/1El0YaSQPvx0C8xHybw_x8ephLNPIrsXC/view?usp=sharing 
 
-## Important 
-1. Chart fetching may take some time of around 10 secs so be patient 😀.   
+1. App Link : https://expo.dev/@danishosahan/CurrencyX
+2. Screen Recording : https://drive.google.com/file/d/1El0YaSQPvx0C8xHybw_x8ephLNPIrsXC/view?usp=sharing
+
+## Important
+
+1. Chart fetching may take some time of around 10 secs so be patient 😀.
 
 </p>
-
-
