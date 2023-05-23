@@ -18,9 +18,9 @@
 ---
 
 <p align="center"> 
-# Currency Converter App
+CurrencyX
 
-The Currency Converter App is a mobile application designed to provide a seamless and efficient way to convert currencies. The app allows users to easily select the currency they want to convert from and to, enter the desired amount, and obtain the converted result. With real-time exchange rates and intuitive charts, users can stay updated with the latest currency fluctuations.
+The CurrencyX is a mobile application designed to provide a seamless and efficient way to convert currencies. The app allows users to easily select the currency they want to convert from and to, enter the desired amount, and obtain the converted result. With real-time exchange rates and intuitive charts, users can stay updated with the latest currency fluctuations.
 
 ## Features
 
@@ -50,6 +50,9 @@ The Currency Converter App is built using the following technologies:
 - Async Storage: A library for storing and retrieving data asynchronously in the app.
 - FusionCharts: A JavaScript charting library for creating interactive and visually appealing charts.
 - Font Awesome: A library of scalable vector icons for enhancing the app's design and user interface.
+- CurrencyConverter Api : A rapid api library used for currency conversion.
+- FastForex : A library used for getting exchange rates between two currencies.
+- react-native-picker : A package used for implementing picker in React Native.
 
 ## Usage
 
@@ -61,19 +64,13 @@ The Currency Converter App is built using the following technologies:
 6. Save favorite currency pairs for quick access and refer to recent search history for convenience.
 7. The app will automatically track user activity and display the most searched currency pairs for easy selection.
 
+## Links
+1. App Link : https://expo.dev/@danishosahan/CurrencyX
+2. Screen Recording : https://drive.google.com/file/d/1El0YaSQPvx0C8xHybw_x8ephLNPIrsXC/view?usp=sharing 
+
+## Important 
+1. Chart fetching may take some time of around 10 secs so be patient 😀.   
 
 </p>
 
-<!-- ## 📝 Table of Contents -->
 
-<!-- - [About](#about)
-- [Demo / Working](#demo)
-- [How it works](#working)
-- [Usage](#usage)
-- [Getting Started](#getting_started)
-- [Deploying your own bot](#deployment)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement) -->
